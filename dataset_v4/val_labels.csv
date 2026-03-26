@@ -1,0 +1,17 @@
+filename,Hammer,Knife,Pistol,Plier,Rifle,Satellite_model,Snips,Stiletto,Wrench
+Multiple_Targets\Multiple_Targets_6_2D.jpg,0,0,1,0,1,0,0,0,0
+Stiletto\Stiletto_3_2D.jpg,0,0,0,0,0,0,0,1,0
+Rifle\Rifle_3_2D.jpg,0,0,0,0,1,0,0,0,0
+Knife\Knife_2_2D.jpg,0,1,0,0,0,0,0,0,0
+Pistol\Pistol_1_2D.jpg,0,0,1,0,0,0,0,0,0
+Hammer\Hammer_2_2D.jpg,1,0,0,0,0,0,0,0,0
+Concealed_Multiple_Targets\Concealed_Multiple_Targets_1_2D.jpg,0,0,1,0,1,0,0,0,0
+Wrench\Wrench_5_2D.jpg,0,0,0,0,0,0,0,0,1
+Concealed_Multiple_Targets\Concealed_Multiple_Targets_5_2D.jpg,0,1,0,0,0,0,0,1,0
+Plier\Plier_1_2D.jpg,0,0,0,1,0,0,0,0,0
+Multiple_Targets\Multiple_Targets_15_2D.jpg,0,1,1,0,0,0,0,0,0
+Knife\Knife_1_2D.jpg,0,1,0,0,0,0,0,0,0
+Snips\Snips_3_2D.jpg,0,0,0,0,0,0,1,0,0
+Rifle\Rifle_7_2D.jpg,0,0,0,0,1,0,0,0,0
+Multiple_Targets\Multiple_Targets_11_2D.jpg,0,0,1,0,0,0,0,1,0
+Concealed_Multiple_Targets\Concealed_Multiple_Targets_6_2D.jpg,0,1,0,0,0,0,0,1,0
